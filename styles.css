@@ -1,0 +1,19 @@
+h1 {
+    font-size: 24px;
+    color: #38B2AC;
+}
+
+h2 {
+    color:#5A67D8;
+    font-size: 21px;
+}
+
+p {
+    font-size: 18px;
+}
+
+img {
+    height: 600px;
+    width: 800px;
+    padding-left: 150px;
+}
